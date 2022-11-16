@@ -14,13 +14,13 @@ Sam Howes
 
 
 Project General Description:
+
         Our aim is to bridge the gap between the creative distribution of social media and the commerce and scheduling tools of software like Square. Many tattoo artists, body modification artists, hair stylists, and other artists advertise on software that is different than where they book appointments. For example, you may come across a tattoo that you like on Instagram. If you are looking to get a tattoo from that artist, it will require going to their profile, then a website linked to their profile, then booking the appointment on a site that has not been globalized. Our goal is to offer artists one app where they can advertise and book in one step, hopefully adding to the rate of people who book appointments. For consumers, we offer a feed based on what friends are viewing and booking as well as artists located nearby. To increase the quality of service we will include a rating system as well as a place for customers to post photos of the work. This app will also create a market for artists who are not able to reach people who do not have typical social media but who are interested in body modification.
 
 
 Project Technical Description:
 
-
-
+        An IOS app that is a platform for tattoo artists, hair stylists, and possibly other cosmetic services to post their work as a sort of portfolio. The user interface for these profiles will display the artists’ work and be integrated with options for messaging, booking appointments, and payment. Users can access two sorts of ‘feed’: the first is a friends feed that displays a continuous scroll of content shared by other users that the user has followed. Second is a feed that is geographically based and based on the users previous likes and allows them to explore what artists are posting in their vicinity while highlighting styles that they have shown interest in. From this feed the user can directly open the artist's entire profile that features their work and the user can message and make an appointment. The app will support two profile types: first, an artist profile or service provider profile which inherits from the basic profile and additionally supports the functionality to message and schedule appointments and allows the service provider to bill for their services. The base profile is a user profile which allows users to post or repost their interests, add friends, and like posts in both types of feeds.
 
 Project Technology:
 
