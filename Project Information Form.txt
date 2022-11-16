@@ -24,6 +24,7 @@ Project Technical Description:
 
 Project Technology:
 
+- Use Firebase integrated with Swift to sotre account information
 
 
 
